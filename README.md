@@ -33,7 +33,6 @@
   3. After that, debug your code in VSC on "**Debug**" and click on "**Start Debugging**"
 
 ## Do you still need help ?
-
-  1. If you still need help, don't hesitate to DM me in my personal discord [rasputin135](discord://-/users/490627367526465558)
+If you still need help, don't hesitate to DM me in my personal discord [rasputin135](discord://-/users/490627367526465558)
       
 # Have a good fun with this Discord Project and don't hesitate to tell me new ideas !
