@@ -27,9 +27,9 @@
           bot = commands.Bot(command_prefix = "!", description = "Hey, I'm a new Discord BOT !"
           ```
   2. To finish, you have to complete the last line by the token of your Discord BOT like here:
-         ```python
-         bot.run('Enter here your bot's token')
-         ```
+     ```python
+     bot.run('Enter here your bot's token')
+     ```
   3. After that, debug your code in VSC on "**Debug**" and click on "**Start Debugging**"
 
 ## Do you still need help ?
